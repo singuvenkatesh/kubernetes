@@ -2,7 +2,7 @@
 	  maintaince
 	  ======================================
 	  kubectl drain node01 --ignore-daemonsets
-	  kubectl uncordon node01
+	  kubectl uncordon node01 -> schedule
 	  Mark node01 as unschedulable so that no new pods are scheduled on this node -> kubectl cordon node01
 	  
 	  ===============================
