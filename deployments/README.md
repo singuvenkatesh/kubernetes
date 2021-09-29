@@ -1,4 +1,6 @@
 ## Deployments
+Deployments in Kubernetes are a set of multiple identical pods.
+A deployment is responsible for running multiple replicas of the application.
 It is a kubernetes object which the declarative updates for Pods and ReplicaSets
 
 ### Create Deployment 
