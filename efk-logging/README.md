@@ -1,0 +1,1 @@
+Elasticsearch is a distributed database using a clustered architecture. It can be complex to deploy and manage Elasticsearch directly on hardware resources. Kubernetes, the world's most popular container orchestrator, makes it easier to deploy, scale, and manage Elasticsearch clusters at a large scale
